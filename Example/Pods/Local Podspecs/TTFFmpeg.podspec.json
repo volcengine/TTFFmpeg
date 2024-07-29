@@ -1,0 +1,23 @@
+{
+  "name": "TTFFmpeg",
+  "version": "0.1.0",
+  "summary": "A short description of TTFFmpeg.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangzhiyong.7717/TTFFmpeg",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangzhiyong.7717": "wangzhiyong.7717@bytedance.com"
+  },
+  "source": {
+    "git": "https://github.com/wangzhiyong.7717/TTFFmpeg.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "TTFFmpeg/Classes/**/*",
+  "frameworks": "Foundation"
+}
